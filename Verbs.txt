@@ -1,4 +1,4 @@
-creating	evaluating	analysing	applying	understanding	remembering
+creating	evaluating	analysing	applying	designing   understanding	remembering
 create	judge	analyse	solve	explain	tell
 invent	select	distinguish	show	interpret	list
 compose	choose	examine	use	outline	describe
@@ -15,7 +15,7 @@ hypothesize	prioritise	differentiate	change	summarise	define
 originate	determine	subdivide	apply	put into your own words	recognise
 add to	critique	deduce	produce	paraphrase	match
 forecast	evaluate		translate	convert	reproduce
-	criticise		calculate	demonstrate	memorise
+	criticise		calculate  evaluate	demonstrate	memorise
 	weigh		manipulate	visualise	draw
 	value		modify		select
 	estimate		put into practice		write
